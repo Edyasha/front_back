@@ -1,0 +1,33 @@
+.LoginBox {
+  display: flex;
+  flex-direction: column;
+  max-width: 50%;
+  margin: 5rem auto;
+  padding: 1rem;
+  background-color: rgb(188, 233, 159);
+  border-radius: 4px;
+  box-shadow: 2px 2px 3px rgb(32, 131, 32);
+
+  .TitlePage {
+    margin: 0.2rem 0 0.5rem 0;
+    font-size: 16px;
+    font-weight: 500;
+  }
+
+  .ErrMessage {
+    text-align: start;
+
+    p {
+    font-size: 10px;
+    font-weight: 600;
+    color: red;
+    margin-top: 0.2rem;
+    margin-left: 0.3rem;
+    }
+  }
+
+  .LinkRegister {
+    margin: 0.8rem 0.2rem 0.5rem 0;
+    text-align: end;
+  }
+}

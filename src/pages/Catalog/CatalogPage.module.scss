@@ -1,0 +1,22 @@
+.TitlePage {
+  margin: 1rem 0 1rem 0;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.CardContainer {
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(188, 233, 159);
+  border-radius: 0.4rem;
+
+  .CardList {
+    list-style-type: none;
+    margin: 0.5rem;
+
+    .CardItem {
+      cursor: pointer;
+      margin-top: 0.5rem;
+    }
+  }
+}

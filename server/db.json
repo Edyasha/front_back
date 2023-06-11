@@ -1,0 +1,53 @@
+{
+  "assortment": [
+    {
+      "id": 1,
+      "type": "sport",
+      "name": "М'яч футбольний",
+      "description": "М'яч для футболу - це те, що потрібно забити у ворота суперника",
+      "url": "https://footballstyle.com.ua/images/_qload/nike-pro-21.jpeg",
+      "price": 20
+    },
+    {
+      "id": 2,
+      "type": "transport",
+      "name": "Самокат дитячий",
+      "description": "Самокат дитячій призначений для активних дітей, які люблять рух.",
+      "url": "https://images.prom.ua/3742441929_dvokolisnij-samokat-best.jpg",
+      "price": 36
+    },
+    {
+      "id": 3,
+      "type": "sport",
+      "name": "Гантелі для фітнеса",
+      "description": "Неопренові гантелі для фітнеса Way4you - це довговічність, зручність і захист підлоги.",
+      "url": "https://ua.yoga-ua.com/system/0010/6827/9617dce8.jpg",
+      "price": 28
+    },
+    {
+      "id": 4,
+      "type": "sport",
+      "name": "Спортивна сумка",
+      "description": "Гіперстильна універсальна спортивна сумка.",
+      "url": "https://mad-btw.com/wp-content/uploads/2019/04/IMG_8541.jpg",
+      "price": 44
+    },
+    {
+      "id": 5,
+      "type": "toys",
+      "name": "Робот поліцейський",
+      "description": "Інтерактивна іграшка для дітей з підсвіткою танцюючий Робот з пультом управління.",
+      "url": "https://images.prom.ua/4476882207_w640_h640_robot-politsejskij-1609.jpg",
+      "price": 22
+    }
+  ],
+  "users": [
+    {
+      "email": "edyasha00@gmail.com",
+      "password": "$2a$10$RCfpFbQV1pUIqwEPx/qFReMzVY.hJ9qhtVja/BSvb4UCsp59orQf2",
+      "login": "Edison",
+      "phone": "+380678811334",
+      "id": 1
+    }
+  ]
+}

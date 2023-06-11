@@ -1,0 +1,58 @@
+.TitlePage {
+  margin: 1rem 0 1rem 0;
+  font-size: 18px;
+  font-weight: 500;
+
+  span {
+    font-size: 18px;
+    font-weight: 600;
+  }
+}
+
+.CardContainer {
+  background-color: rgb(188, 233, 159);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 100%;
+  border-radius: 0.4rem;
+
+  .Welcome {
+    text-align: left;
+    padding: 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+    .TextBoxLeft {
+      padding: 0 0.5rem 0 0;
+
+      .WelcomeImage {
+        max-width: 100%;
+        border-radius: 0.4rem;
+        margin: 0.5rem 0;
+      }
+
+      p {
+        text-indent: 1.5rem;
+        margin-bottom: 0.5rem
+      }
+    }
+
+    .TextBoxRight {
+      padding: 0 0 0 0.5rem;
+
+      .WelcomeImage {
+        max-width: 100%;
+        border-radius: 0.4rem;
+        margin-top: 0.8rem;
+      }
+
+      p {
+        text-indent: 1.5rem;
+        margin-top: 0.5rem
+      }
+    }
+  }
+}
