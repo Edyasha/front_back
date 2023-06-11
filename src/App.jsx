@@ -10,8 +10,6 @@ import SignUp from "./pages/Sign-Up/SignUp";
 import Admin from "./pages/Admin/Admin";
 
 function App() {
-// Перевірка коміта.
-
   return (
     <>
       <Routes>
